@@ -155,3 +155,4 @@ The backend (`server.js`) runs on `http://localhost:3000` and provides these end
 3.  Enter a **Target Language**.
 4.  **Mock Mode:** Check "Use Mock Translation" to test the system without using real money/credits.
 5.  Click **"Get Transcript & Translate"**.
+# TESTAPP
